@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yossi126
-- 👀 Mobile And Web Development
+- 👀 Junior Developer
 - 📫 yossi126@gmail.com
 
 <!---
