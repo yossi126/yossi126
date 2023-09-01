@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yossi126
-- 👀 Junior Developer
+- 👀 Full Stack Developer
 - 📫 yossi126@gmail.com
 
 <!---
