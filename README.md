@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yossi126
-- 👀 Full Stack Developer
+- 👀 Software Developer
 - 📫 yossi126@gmail.com
 
 <!---
